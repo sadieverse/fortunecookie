@@ -29,11 +29,10 @@ button{
 }
 body{
     background-color: #FFE976;
-    
-   
-
 }
-
+#yourMessage{
+    background-color: aliceblue;
+}
 footer{
     margin-top: 30%;
 }
