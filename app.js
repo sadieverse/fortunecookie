@@ -10,7 +10,7 @@ function getData() {
     console.log(message);
 }
 function getMessage() {
-    const newMes = // document.createElement("div");
+    const newMes = document.createElement("div");
     document.body.appendChild(newMes);
     newMes.innerHTML = '<p id="yourMessage"></p>';
     document.getElementById("yourMessage").innerHTML = message;
