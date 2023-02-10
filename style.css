@@ -26,12 +26,19 @@ img{
 button{
     margin-left: 45%;
     margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
     background-color: #FFE976;
 }
 #yourMessage{
     background-color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
 }
 footer{
     margin-top: 30%;
